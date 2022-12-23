@@ -1,6 +1,6 @@
 
 ## Introduction
-This is the source code of "Bidirectional Semantic Construction Network for Composed Query-Based Image Retrieval", more analysis can be refer to supp(https://github.com/anonymoustnt/anony/blob/main/supp.pdf).
+This is the source code of "Bidirectional Semantic Construction Network for Composed Query-Based Image Retrieval", more analysis can be refer to https://github.com/anonymoustnt/anony/blob/main/supp.pdf.
 
 ## Bidirectional Semantic Construction Network for Composed Query-Based Image Retrieval
 The proposed BSCN is a novel method that leverages the proposed bidirectional semantic construction to refine the semantics from multi-level feature extraction at the textual and visual levels.
